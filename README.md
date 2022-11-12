@@ -5,9 +5,9 @@ Junto con estos archivos se incluye un archivo PDF con el proyecto y ....
 
 **AUTORES**
 
-Alvaro Delgado de Paz
-Ana González Celestino
-Rosa María González López
+Alvaro Delgado de Paz.
+Ana González Celestino.
+Rosa María González López.
 
 **CONTACTO**
 
